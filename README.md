@@ -1,2 +1,2 @@
 # eseal-on-bnb-chain
-Edubuk's eSeal Frontend on BNB blockchain
+Edubuk's eSeal Frontend on BNB chain
